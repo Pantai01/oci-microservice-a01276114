@@ -1,0 +1,9 @@
+com\example\springoci\controller\OrderController.class
+com\example\springoci\SpringociApplication.class
+com\example\springoci\model\User.class
+com\example\springoci\model\Order.class
+com\example\springoci\repository\OrderRepository.class
+com\example\springoci\service\OrderService.class
+com\example\springoci\service\UserService.class
+com\example\springoci\controller\UserController.class
+com\example\springoci\repository\UserRepository.class
